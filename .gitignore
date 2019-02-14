@@ -1,0 +1,12 @@
+# Nunca atualizar a pasta (env)
+env/
+.vscode
+
+# ignorar arquivo manage.py
+manage.py
+
+# Ignorar arquivos de Cache __pycache__
+hello/__pycache__
+hello/migrations/__pycache__
+web_project/__pycache__
+
