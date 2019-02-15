@@ -1,6 +1,21 @@
+
+.body-content {
+    padding: 5px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+input[name=message] {
+    width: 80%;
+}
+
 .message {
     font-weight: 600;
     color: blue;
+}
+
+.message_list th,td {
+    text-align: left;
+    padding-right: 15px;
 }
 
 .navbar {
@@ -26,7 +41,3 @@
     margin-left: 30px;
 }
 
-.body-content {
-    padding: 5px;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
